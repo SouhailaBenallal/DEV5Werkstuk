@@ -1,6 +1,6 @@
 const app = require("./app");
 
-const PORT = 3000;
+const PORT = 3002;
 var server = app.listen(PORT, function() {
     var port = server.address().port
 
