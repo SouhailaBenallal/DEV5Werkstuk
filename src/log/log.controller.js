@@ -1,5 +1,5 @@
 const logService = require("./log.service");
-const { isUUID } = require("../../util/util");
+const { isUUID } = require("../util/util");
 
 class LogController {
 
